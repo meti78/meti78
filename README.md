@@ -1,5 +1,5 @@
 ### Hi there 👋
-[Skills](https://github.com/meti78/meti78?tab=readme-ov-file#%EF%B8%8F-skills)
+![Skills](https://github.com/meti78/meti78?tab=readme-ov-file#%EF%B8%8F-skills)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)]
 ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=#0A66C2)
 
