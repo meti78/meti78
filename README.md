@@ -1,7 +1,7 @@
-### Hi there 👋
+## Hi there 👋
 🧑‍💻 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)]
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=WordPress&logoColor=21759B)]
+![wordpress](https://img.shields.io/badge/wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=21759B)]
 ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=#0A66C2)
 
